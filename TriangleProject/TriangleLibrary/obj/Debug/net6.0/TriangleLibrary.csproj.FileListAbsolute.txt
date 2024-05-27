@@ -1,0 +1,12 @@
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\bin\Debug\net6.0\TriangleLibrary.deps.json
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\bin\Debug\net6.0\TriangleLibrary.dll
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\bin\Debug\net6.0\ref\TriangleLibrary.dll
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\bin\Debug\net6.0\TriangleLibrary.pdb
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\obj\Debug\net6.0\TriangleLibrary.csproj.AssemblyReference.cache
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\obj\Debug\net6.0\TriangleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\obj\Debug\net6.0\TriangleLibrary.AssemblyInfoInputs.cache
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\obj\Debug\net6.0\TriangleLibrary.AssemblyInfo.cs
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\obj\Debug\net6.0\TriangleLibrary.csproj.CoreCompileInputs.cache
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\obj\Debug\net6.0\TriangleLibrary.dll
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\obj\Debug\net6.0\ref\TriangleLibrary.dll
+D:\ВКИ\3kurs\TriangleProject\TriangleLibrary\obj\Debug\net6.0\TriangleLibrary.pdb

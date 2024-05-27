@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0379843-ae69-4bde-b83b-fcd7b5fe79d5": {
+      "ProjectGuid": "e0379843-ae69-4bde-b83b-fcd7b5fe79d5",
+      "DisplayName": "TriangleLibrary",
+      "ColorIndex": 0
+    },
+    "a4884c70-7350-4270-84a3-f478f34cb76d": {
+      "ProjectGuid": "a4884c70-7350-4270-84a3-f478f34cb76d",
+      "DisplayName": "TriangleLibraryTests",
+      "ColorIndex": 1
+    },
+    "93734c3a-75b6-4ae4-a675-7075fb425f3c": {
+      "ProjectGuid": "93734c3a-75b6-4ae4-a675-7075fb425f3c",
+      "DisplayName": "TriangleApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
